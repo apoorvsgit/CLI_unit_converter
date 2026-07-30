@@ -87,10 +87,3 @@ while True:
         
 
 
-'''
-first we have to define the function 
-and then call the function 
-
-in this case im calling the function inside the loop
-previously i m calling the funtion which is inside the while llop
-'''
